@@ -52,7 +52,7 @@ const Newsletter = () => {
           <Button
             label="Enviar"
             styleSheet={{
-              backgroundColor: "#FAA500",
+              backgroundColor: "#2f5061",
               color: "#FFFFFF",
               borderRadius: "4px",
               height: "40px",

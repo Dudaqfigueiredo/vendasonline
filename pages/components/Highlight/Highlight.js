@@ -26,7 +26,7 @@ const Highlight = () => {
             marginBottom: "21px",
           }}
         >
-          As Mais Pedidas
+          Destaques 
         </Text>
         {/* Todas as caixas */}
         <Box
@@ -140,7 +140,7 @@ const Highlight = () => {
                   marginTop: "2px",
                 }}
               >
-                Faux Suede Mini Skirt
+                Saia Amarela
               </Text>
               <Text
                 styleSheet={{
@@ -154,14 +154,13 @@ const Highlight = () => {
                   marginTop: "8px",
                 }}
               >
-                A faux suede mini skirt featuring exposed button-front closures
-                and panel seam construction.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum mauris posuere fusce proin mattis. Hendrerit cras ut nunc enim dictum. Mattis proin ut quis donec sed eget nulla. Vel mi ut mauris integer. 
               </Text>
 
               <Button
                 label="Adicionar"
                 styleSheet={{
-                  backgroundColor: "#FAA500",
+                  backgroundColor: "#2f5061",
                   color: "#FFFFFF",
                   borderRadius: "4px",
                   height: "35px",
@@ -271,7 +270,7 @@ const Highlight = () => {
                   marginTop: "2px",
                 }}
               >
-                Ruched Rose Print Mini Skirt
+                Saia preta florida
               </Text>
               <Text
                 styleSheet={{
@@ -285,15 +284,13 @@ const Highlight = () => {
                   marginTop: "8px",
                 }}
               >
-                A satin mini skirt featuring an allover floral print, ruched
-                side with self-tie closure, concealed back zipper, and a flounce
-                hem.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum mauris posuere fusce proin mattis. Hendrerit cras ut nunc enim dictum. Mattis proin ut quis donec sed eget nulla. Vel mi ut mauris integer. 
               </Text>
 
               <Button
                 label="Adicionar"
                 styleSheet={{
-                  backgroundColor: "#FAA500",
+                  backgroundColor: "#2f5061",
                   color: "#FFFFFF",
                   borderRadius: "4px",
                   height: "35px",
@@ -403,7 +400,7 @@ const Highlight = () => {
                   marginTop: "2px",
                 }}
               >
-                Faux Suede Mini Skirt
+                Saia Amarela
               </Text>
               <Text
                 styleSheet={{
@@ -417,14 +414,13 @@ const Highlight = () => {
                   marginTop: "8px",
                 }}
               >
-                A faux suede mini skirt featuring exposed button-front closures
-                and panel seam construction.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum mauris posuere fusce proin mattis. Hendrerit cras ut nunc enim dictum. Mattis proin ut quis donec sed eget nulla. Vel mi ut mauris integer. 
               </Text>
 
               <Button
                 label="Adicionar"
                 styleSheet={{
-                  backgroundColor: "#FAA500",
+                  backgroundColor: "#2f5061",
                   color: "#FFFFFF",
                   borderRadius: "4px",
                   height: "35px",
@@ -542,7 +538,7 @@ const Highlight = () => {
                   marginTop: "2px",
                 }}
               >
-                Ruched Rose Print Mini Skirt
+                Saia preta florida
               </Text>
               <Text
                 styleSheet={{
@@ -556,15 +552,13 @@ const Highlight = () => {
                   marginTop: "8px",
                 }}
               >
-                A satin mini skirt featuring an allover floral print, ruched
-                side with self-tie closure, concealed back zipper, and a flounce
-                hem.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum mauris posuere fusce proin mattis. Hendrerit cras ut nunc enim dictum. Mattis proin ut quis donec sed eget nulla. Vel mi ut mauris integer. 
               </Text>
 
               <Button
                 label="Adicionar"
                 styleSheet={{
-                  backgroundColor: "#FAA500",
+                  backgroundColor: "#2f5061",
                   color: "#FFFFFF",
                   borderRadius: "4px",
                   height: "35px",

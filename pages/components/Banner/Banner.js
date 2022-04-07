@@ -58,7 +58,7 @@ const Banner = () => {
               marginBottom: "40px",
             }}
           >
-            Promoções de Outono
+            Promoções de Primaveira
           </Text>
           <Text
             variant="body4"
@@ -73,12 +73,12 @@ const Banner = () => {
               marginBottom: "32px",
             }}
           >
-            Confira os melhores looks para combinar com você nesse Outono
+            Confira os melhores looks para o melhor estilo
           </Text>
           <Button
             label="Conferir"
             styleSheet={{
-              backgroundColor: "#FAA500",
+              backgroundColor: "#2f5061",
               color: "#FFFFFF",
               borderRadius: "10px",
               height: "48px",
@@ -108,7 +108,7 @@ const Banner = () => {
                     width: "16px",
                     height: "16px",
                     borderRadius: "50%",
-                    backgroundColor: "#FAA500",
+                    backgroundColor: "#2f5061",
                     
                 }}
             >
@@ -118,7 +118,7 @@ const Banner = () => {
                     width: "16px",
                     height: "16px",
                     borderRadius: "50%",
-                    border: "2px solid #FAA500",
+                    border: "2px solid #2f5061",
                     backgroundColor: "none",
                     
                 }}
@@ -129,7 +129,7 @@ const Banner = () => {
                     width: "16px",
                     height: "16px",
                     borderRadius: "50%",
-                    border: "2px solid #FAA500",
+                    border: "2px solid #2f5061",
                     backgroundColor: "none",
                     
                 }}
@@ -140,7 +140,7 @@ const Banner = () => {
                     width: "16px",
                     height: "16px",
                     borderRadius: "50%",
-                    border: "2px solid #FAA500",
+                    border: "2px solid #2f5061",
                     backgroundColor: "none",
                     
                 }}
@@ -151,7 +151,7 @@ const Banner = () => {
                     width: "16px",
                     height: "16px",
                     borderRadius: "50%",
-                    border: "2px solid #FAA500",
+                    border: "2px solid #2f5061",
                     backgroundColor: "none",
                     
                 }}

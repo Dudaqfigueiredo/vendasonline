@@ -25,7 +25,7 @@ const Reasons = () => {
             marginBottom: "21px",
           }}
         >
-          Por que comprar na Maeztra?
+          Por que comprar na Compra Comigo?
         </Text>
 
         {/* Todas as caixas */}

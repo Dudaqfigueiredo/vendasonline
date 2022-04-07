@@ -55,12 +55,12 @@ const Introduction = () => {
         <Image
           tag="a"
           styleSheet={{
-            width: "750px",
+            width: "550px",
             height: "320px",
-            marginLeft: "55px",
-            marginTop: "80px"
+            marginLeft: "20%",
+            marginTop: "100px"
           }}
-          src="./autumn.png"
+          src="./images.jpg"
         />
       </Box>
     </>

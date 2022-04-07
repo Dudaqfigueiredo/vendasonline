@@ -2,10 +2,8 @@ import React from "react";
 import { Box, Image, Text, TextField, Button } from "@skynexui/components";
 
 
-const Alert = () => {
-  const handleClick = () => {
-    console.log("Oi")
-  };
+const Alert = ({onClose}) => {
+
   return (
     <>
       <Box
@@ -23,7 +21,7 @@ const Alert = () => {
       <Button
         variant="tertiary"
         label="FECHAR"
-        onClick={handleClick}
+        onClick={onClose}
         styleSheet={{
           position: "absolute",
           color: "#FFFFFF",
@@ -83,7 +81,7 @@ const Alert = () => {
               color: "#464B54",
             }}
           >
-            BEM VINDO À MAEZTRA
+            BEM VINDO A COMPRA COMIGO
           </Text>
           <Text
             styleSheet={{
@@ -115,7 +113,7 @@ const Alert = () => {
             label="Enviar"
             iconName="paperPlane"
             styleSheet={{
-              backgroundColor: "#FAA500",
+              backgroundColor: "#2f5061",
               color: "#FFFFFF",
               borderRadius: "10px",
               height: "40px",

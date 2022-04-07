@@ -123,39 +123,14 @@ const Footer = () => {
                         lineHeight: "13.62px",
                         color: "#FFFFFF"
                     }}
-                >Powered by</Text>
-                <Image
-                  tag="a"
-                  styleSheet={{
-                    width: "67.83px",
-                    height: "25px",
-                  }}
-                  src="./vtexfooter.png"
-                />
-              </Box>
-              <Box
-                styleSheet={{
-                    display:"flex",
-                    flexDirection: "column"
-                }}
-              >
-                <Text
-                    styleSheet={{
-                        width: "60px",
-                        height: "18px",
-                        fontFamily: "Open Sans 400",
-                        fontSize: "10px",
-                        lineHeight: "13.62px",
-                        color: "#FFFFFF"
-                    }}
                 >Develope by</Text>
                 <Image
                   tag="a"
                   styleSheet={{
-                    width: "118.65px",
-                    height: "28.81px",
+                    width: "100%",
+                    height: "45px",
                   }}
-                  src="./maeztrafooter.png"
+                  src="./logofooter.png"
                 />
               </Box>
             </Box>

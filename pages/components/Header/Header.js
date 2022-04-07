@@ -11,7 +11,7 @@ const Header = () => {
             padding: "absolute",
             color: "white",
             backgroundColor: "#353535",
-            height: "24px",
+            height: "10%",
             marginLeft: "0px",
             marginTop: "0px",
             display: "flex",
@@ -37,7 +37,7 @@ const Header = () => {
               color: "#FFFFFF",
             }}
           >
-            Acompanhe as melhores promoções disponíveis aqui na Maeztra.
+            Acompanhe as melhores promoções disponíveis aqui na Compra Comigo.
           </Text>
         </Box>
         <Box
@@ -45,7 +45,7 @@ const Header = () => {
             padding: "absolute",
             color: "white",
             backgroundColor: "#FFFFF",
-            height: "88px",
+            height: "50%",
             marginLeft: "0px",
             marginTop: "24px",
             boxShadow: "0px 4px 6px rgba(0, 0, 0, 0.08)",
@@ -57,14 +57,13 @@ const Header = () => {
             tag="a"
             styleSheet={{
               position: "absolute",
-              width: "147px",
-              height: "18px",
-              marginLeft: "161px",
-              marginRight: "93px",
-              marginTop: "35px",
-              marginBottom: "35px",
+              width: "20%",
+              height: "40%",
+              marginLeft: "5%",
+              marginTop: "-6.5%",
+              marginBottom: "2.5%",
             }}
-            src="./maeztra.png"
+            src="./logo.png"
           />
           <TextField
             placeholder="O Que Você Busca?"
@@ -72,26 +71,26 @@ const Header = () => {
             styleSheet={{
               marginLeft: "30%",
               marginRight: "38%",
-              marginTop: "20px",
-              marginBottom: "35px",
+              marginTop: "1%",
+              marginBottom: "2%",
               width: "41%",
               backgroundColor: "#EFEFEF",
               borderRadius: "10px",
               height: "40px",
-              
+              borderColor: "#2f5061",
             }}
           />
           <Button
             label="Buscar"
             styleSheet={{
               position: "absolute",
-              backgroundColor: "#FAA500",
+              backgroundColor: "#2f5061",
               color: "#FFFFFF",
               borderRadius: "8px",
-              height: "40px",
-              width: "119px",
-              marginTop: "20px",
-              marginBottom: "35px",
+              height: "6%",
+              width: "10%",
+              marginTop: "1%",
+              marginBottom: "2%",
               marginLeft: "54%",
               fontFamily: "Titillium Web",
               fontStyle: "normal",
@@ -160,7 +159,7 @@ const Header = () => {
           <Box
             styleSheet={{
               position: "absolute",
-              border: "1px solid #FAA500",
+              border: "1px solid #2f5061",
               marginLeft: "89%",
               backgroundColor: "#FFFFFF",
               width: "134px",
@@ -189,6 +188,7 @@ const Header = () => {
                 lineHeight: "21px",
                 color: "#353535",
                 marginLeft: "9px",
+                backgroundColor: "#FFFFF"
               }}
             >
               Meu Carrinho
@@ -218,7 +218,6 @@ const Header = () => {
           />
           <Text
             styleSheet={{
-              color: "#353535",
               backgroundColor: "#FFFFF",
               width: "64px",
               height: "21px",
@@ -229,7 +228,7 @@ const Header = () => {
               fontSize: "14px",
               lineHeight: "21px",
 
-              color: "#FAA500",
+              color: "#2f5061",
             }}
           >
             Novidades
