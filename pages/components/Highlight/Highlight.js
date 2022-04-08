@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Box, Image, Text, TextField, Button } from "@skynexui/components";
 
 const Highlight = () => {
