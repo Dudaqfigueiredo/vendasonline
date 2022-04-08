@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+
 import { Box, Image, Text, TextField, Button } from "@skynexui/components";
 
 const Banner = () => {

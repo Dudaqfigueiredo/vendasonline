@@ -1,6 +1,5 @@
 import React from "react";
 import { Box, Image, Text, TextField, Button } from "@skynexui/components";
-import { getFontDefinitionFromNetwork } from "next/dist/server/font-utils";
 
 const Footer = () => {
   return (
